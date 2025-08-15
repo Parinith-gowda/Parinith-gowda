@@ -1,5 +1,5 @@
 <!-- Header with GIF -->
-<h1 align="center">Hi there 👋, I'm Parinith Gowda</h1>
+<h1 align="center">Hi there 👋, I'm Parinith Gowda K</h1>
 <h3 align="center">💻 CSE Student at Sir MVIT | Passionate about Coding & Problem Solving</h3>
 
 <!-- Typing Animation -->
